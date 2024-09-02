@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathieu Neumar</h1>
-<h3 align="center">A French student at Epita.</h3>
+<h3 align="center">A French student at Epita working at Amiral Gestion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mneumar&label=Profile%20views&color=0e75b6&style=flat" alt="mneumar" /> </p>
 
